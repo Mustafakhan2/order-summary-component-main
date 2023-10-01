@@ -22,7 +22,7 @@ body {
   width: 28.11rem;
   height: 45rem;
   background-color: white;
-  border-radius: 5%;
+  border-radius: 20px;
   overflow: hidden;
   font-family: "Kumbh Sans", sans-serif;
 }
